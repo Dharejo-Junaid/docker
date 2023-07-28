@@ -1,4 +1,5 @@
 Dockerfile
+dockerfile-compose.yml
 
 .git
 .gitignore
